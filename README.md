@@ -1,5 +1,7 @@
 # Movie Seat Booking
 
+https://chriszmx.github.io/MovieSeatBooking/
+
 This is a simple movie seat booking application that allows users to select seats for a movie and calculates the total price based on the number of selected seats and the chosen movie.
 
 ## Features
